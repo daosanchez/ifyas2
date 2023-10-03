@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\bin\Debug\form17.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\bin\Debug\form17.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\bin\Debug\form17.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\obj\Debug\form17.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\obj\Debug\form17.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\obj\Debug\form17.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\obj\Debug\form17.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\obj\Debug\form17.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\obj\Debug\form17.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\obj\Debug\form17.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form17\form17\obj\Debug\form17.pdb
